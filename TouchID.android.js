@@ -24,6 +24,7 @@ export default {
       imageErrorColor: '#ff0000',
       sensorDescription: 'Touch sensor',
       sensorErrorDescription: 'Failed',
+      sensorFailedText: 'Not recognized.Try again.',
       cancelText: 'Cancel',
       unifiedErrors: false
     };
